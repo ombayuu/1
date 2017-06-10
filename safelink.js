@@ -18,29 +18,12 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*2)+ 1);var xxx=null;
+{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*5)+ 1);var xxx=null;
 if(x=="1"){xxx="/2017/06/for-sake-of-face-and-light-when-fasting.html"}
 if(x=="2"){xxx="/2017/06/mistakes-that-make-your-hair-damaged.html"}
-if(x=="1"){xxx="/2017/06/wow-this-man-live-with-two-hearts.html"}
-if(x=="1"){xxx="/2017/06/for-fasting-run-safely-come-practice-5.html"}
-if(x=="1"){xxx="/2017/06/suggestions-stay-beautiful-during.html"}
-if(x=="1"){xxx="/2017/06/really-women-with-small-body-has-vagina.html"}
-if(x=="1"){xxx="/2017/06/wonder-women-shopping-at-nudist.html"}
-if(x=="1"){xxx="/2017/06/heres-suggestions-overcoming-eyes-tired.html"}
-if(x=="1"){xxx="/2017/06/20-ways-to-prevent-skin-scaling.html"}
-if(x=="1"){xxx="/2017/06/10-ways-to-eliminate-natural-and.html"}
-if(x=="1"){xxx="/2017/06/though-at-risk-pregnant-women-over-35.html"}
-if(x=="1"){xxx="/2017/06/causes-of-acne-inflamed-stones-and-how.html"}
-if(x=="1"){xxx="/2017/06/avoiding-coming-of-toothache.html"}
-if(x=="1"){xxx="/2017/06/causes-symptoms-and-treatment-of-low.html"}
-if(x=="1"){xxx="/2017/06/how-to-treat-traditional-miom-disease.html"}
-if(x=="1"){xxx="/2017/06/treating-waist-pain-with-mangosteen.html"}
-if(x=="1"){xxx="/2017/06/pure-approach-hair-loss-wholesome-hair.html"}
-if(x=="1"){xxx="/2017/06/causes-and-symptoms-of-virus-zika.html"}
-if(x=="1"){xxx="/2017/06/the-advantages-of-basketball-sports.html"}
-if(x=="1"){xxx="/2017/06/because-of-sperm-washing-individuals.html"}
-if(x=="1"){xxx="/2017/06/being-pregnant-planning-being-pregnant.html"}
-if(x=="1"){xxx="/wrongdoer-causes-look-of-pimples-stone.html"}a_to_ve[i].href="http://linkdunlut.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="3"){xxx="/2017/06/wow-this-man-live-with-two-hearts.html"}
+if(x=="4"){xxx="/2017/06/for-fasting-run-safely-come-practice-5.html"}
+if(x=="5"){xxx="/2017/06/suggestions-stay-beautiful-during.html"}a_to_ve[i].href="http://linkdunlut.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
